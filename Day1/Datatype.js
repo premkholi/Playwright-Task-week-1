@@ -1,0 +1,18 @@
+var myname = "prem";
+var age = 28;
+var isStudent = true;
+var bigNumber = 1234567890123456789012345678901234567890n;
+var location;
+var lastname = null;
+console.log(myname);
+console.log(age);
+console.log(isStudent);
+console.log(bigNumber);
+console.log(location);
+console.log(lastname);
+console.log(typeof myname);
+console.log(typeof age);
+console.log(typeof isStudent);
+console.log(typeof bigNumber);
+console.log(typeof location);
+console.log(typeof lastname);
